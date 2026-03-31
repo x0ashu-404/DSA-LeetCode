@@ -16,7 +16,7 @@ Each problem includes:
 
 ## Goal
 
-Solve atleast 1 problem daily.
+Solve atleast 1 problem daily.<br>
 To build strong problem-solving skills through consistent practice and revision.
 
 ## Progress
