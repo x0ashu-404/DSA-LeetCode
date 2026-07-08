@@ -63,6 +63,7 @@ Problems solved: 31
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ Problems solved: 31
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -107,4 +109,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
