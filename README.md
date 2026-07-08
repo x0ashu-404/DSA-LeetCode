@@ -70,4 +70,16 @@ Problems solved: 31
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
