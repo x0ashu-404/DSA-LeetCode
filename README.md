@@ -38,6 +38,7 @@ Problems solved: 31
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -48,11 +49,13 @@ Problems solved: 31
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -86,6 +89,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
