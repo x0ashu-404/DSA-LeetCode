@@ -28,6 +28,7 @@ Problems solved: 31
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -102,6 +103,7 @@ Problems solved: 31
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
@@ -139,4 +141,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
