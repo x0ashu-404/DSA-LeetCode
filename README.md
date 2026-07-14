@@ -104,6 +104,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -112,6 +113,7 @@ Problems solved: 31
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
@@ -133,6 +135,7 @@ Problems solved: 31
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## String Matching
