@@ -124,6 +124,7 @@ Problems solved: 31
 | [0069-sqrtx](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -140,6 +141,7 @@ Problems solved: 31
 | [0151-reverse-words-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -194,4 +196,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
