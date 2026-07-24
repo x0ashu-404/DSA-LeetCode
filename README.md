@@ -180,6 +180,7 @@ Problems solved: 31
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2390-removing-stars-from-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -197,6 +198,7 @@ Problems solved: 31
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -225,4 +227,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
