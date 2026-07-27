@@ -40,6 +40,7 @@ Problems solved: 31
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
@@ -186,6 +187,7 @@ Problems solved: 31
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
