@@ -34,6 +34,7 @@ Problems solved: 31
 | [0026-remove-duplicates-from-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -301,4 +302,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
