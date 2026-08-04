@@ -53,6 +53,7 @@ Problems solved: 31
 | [1470-shuffle-the-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [3731-find-missing-elements](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Problems solved: 31
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Problems solved: 31
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [3731-find-missing-elements](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
