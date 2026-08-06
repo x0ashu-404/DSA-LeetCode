@@ -169,6 +169,7 @@ Problems solved: 31
 | [0076-minimum-window-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
@@ -199,6 +200,7 @@ Problems solved: 31
 | [0013-roman-to-integer](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
