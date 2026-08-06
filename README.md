@@ -116,6 +116,7 @@ Problems solved: 31
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
@@ -143,6 +144,7 @@ Problems solved: 31
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Problems solved: 31
 | ------- |
 | [0042-trapping-rain-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
