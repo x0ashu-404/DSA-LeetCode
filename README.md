@@ -344,6 +344,7 @@ Problems solved: 31
 | [0017-letter-combinations-of-a-phone-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
 ## Database
 |  |
