@@ -146,6 +146,7 @@ Problems solved: 31
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0143-reorder-list) |
 ## Math
@@ -166,6 +167,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0143-reorder-list) |
 ## String
 |  |
