@@ -31,6 +31,7 @@ Problems solved: 31
 | [0004-median-of-two-sorted-arrays](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0039-combination-sum) |
@@ -73,6 +74,7 @@ Problems solved: 31
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -110,6 +112,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0027-remove-element) |
