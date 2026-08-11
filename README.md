@@ -78,6 +78,7 @@ Problems solved: 31
 | [0049-group-anagrams](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -191,6 +192,7 @@ Problems solved: 31
 | [0125-valid-palindrome](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
@@ -227,6 +229,7 @@ Problems solved: 31
 | [0076-minimum-window-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
