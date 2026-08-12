@@ -41,6 +41,7 @@ Problems solved: 31
 | [0053-maximum-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
@@ -145,6 +146,7 @@ Problems solved: 31
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -369,6 +371,7 @@ Problems solved: 31
 | [0039-combination-sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Database
