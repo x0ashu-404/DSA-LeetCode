@@ -60,6 +60,7 @@ Problems solved: 31
 | [1470-shuffle-the-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3731-find-missing-elements](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -147,6 +148,7 @@ Problems solved: 31
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Problems solved: 31
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -367,6 +370,7 @@ Problems solved: 31
 | [0046-permutations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Database
 |  |
 | ------- |
@@ -380,6 +384,7 @@ Problems solved: 31
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bracket Sequences
 |  |
@@ -393,4 +398,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
