@@ -208,6 +208,7 @@ Problems solved: 31
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Problems solved: 31
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -280,6 +282,7 @@ Problems solved: 31
 | [0076-minimum-window-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |
 | ------- |
