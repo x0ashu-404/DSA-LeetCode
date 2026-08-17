@@ -45,6 +45,7 @@ Problems solved: 31
 | [0073-set-matrix-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
@@ -200,6 +201,7 @@ Problems solved: 31
 | [0049-group-anagrams](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
@@ -229,6 +231,7 @@ Problems solved: 31
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -351,6 +354,7 @@ Problems solved: 31
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -384,6 +388,7 @@ Problems solved: 31
 | [0047-permutations-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Database
