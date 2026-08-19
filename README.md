@@ -42,6 +42,7 @@ Problems solved: 31
 | [0047-permutations-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0078-subsets) |
@@ -231,6 +232,7 @@ Problems solved: 31
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
@@ -278,6 +280,7 @@ Problems solved: 31
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
