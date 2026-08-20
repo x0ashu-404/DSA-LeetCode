@@ -176,6 +176,7 @@ Problems solved: 31
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
@@ -223,6 +224,7 @@ Problems solved: 31
 | [0022-generate-parentheses](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
@@ -431,4 +433,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
