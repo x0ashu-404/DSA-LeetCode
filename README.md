@@ -184,6 +184,7 @@ Problems solved: 31
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -234,6 +235,7 @@ Problems solved: 31
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -442,4 +444,5 @@ Problems solved: 31
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
