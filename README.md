@@ -62,6 +62,7 @@ Problems solved: 31
 | [0215-kth-largest-element-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
@@ -234,6 +235,7 @@ Problems solved: 31
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -351,6 +353,7 @@ Problems solved: 31
 | [0112-path-sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -447,4 +450,12 @@ Problems solved: 31
 | ------- |
 | [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
