@@ -54,6 +54,7 @@ Problems solved: 31
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
@@ -215,6 +216,7 @@ Problems solved: 31
 | [0076-minimum-window-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0242-valid-anagram) |
@@ -234,6 +236,7 @@ Problems solved: 31
 | [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
@@ -261,6 +264,7 @@ Problems solved: 31
 | [0049-group-anagrams](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0242-valid-anagram) |
@@ -301,6 +305,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -449,6 +454,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
 |  |
@@ -458,4 +464,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
