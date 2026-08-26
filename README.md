@@ -131,6 +131,7 @@ Problems solved: 31
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -209,6 +210,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
@@ -235,6 +237,7 @@ Problems solved: 31
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0053-maximum-subarray) |
@@ -483,4 +486,8 @@ Problems solved: 31
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
