@@ -75,6 +75,7 @@ Problems solved: 31
 | [0746-min-cost-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -277,6 +278,7 @@ Problems solved: 31
 | [0079-word-search](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0221-maximal-square) |
+| [0994-rotting-oranges](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -384,6 +386,7 @@ Problems solved: 31
 | [0226-invert-binary-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
