@@ -200,6 +200,7 @@ Problems solved: 31
 | [1137-n-th-tribonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
