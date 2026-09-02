@@ -46,6 +46,7 @@ Problems solved: 31
 | [0054-spiral-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0078-subsets) |
@@ -193,6 +194,7 @@ Problems solved: 31
 | ------- |
 | [0002-add-two-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
