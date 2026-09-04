@@ -9,7 +9,7 @@ public:
         }
 
         int st = 0;
-        int end = min(n, m);
+        int end = n;
         int left = (n+m+1)/2;
 
         while(st<=end){
@@ -20,8 +20,8 @@ public:
 
             if(mid1 < n) r1 = nums1[mid1];
             if(mid2 < m) r2 = nums2[mid2];
-            if(mid1 - 1 >= 0) l1 = nums1[mid1-1];
-            if(mid2 - 1 >= 0) l2 = nums2[mid2-1];
+            if(mid1 > 0) l1 = nums1[mid1-1];
+            if(mid2 > 0) l2 = nums2[mid2-1];
 
             if(l1 <= r2 and l2 <= r1){
                 if((n+m)%2 != 0){
