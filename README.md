@@ -205,6 +205,7 @@ Problems solved: 31
 | [0189-rotate-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -225,6 +226,7 @@ Problems solved: 31
 | [0024-swap-nodes-in-pairs](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
