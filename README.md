@@ -139,6 +139,7 @@ Problems solved: 31
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -261,6 +262,7 @@ Problems solved: 31
 | [0242-valid-anagram](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -326,6 +328,7 @@ Problems solved: 31
 | [0290-word-pattern](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -377,6 +380,7 @@ Problems solved: 31
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/x0ashu-404/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
